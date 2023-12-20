@@ -1,0 +1,22 @@
+html{
+    
+    background :url("chr.jpg");
+}
+div{
+    
+    color:white;
+    text_margin: center ;
+}
+header{
+    
+    color : purple ;
+}
+footer {
+    color : blue ;
+}
+. container {
+    
+    border-color: yellow ;
+    border-width:thick;
+    border-style: solid ;
+}
